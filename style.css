@@ -28,6 +28,7 @@ header {
   color: #ffffff;
   margin-bottom: 30px;
   border-bottom: 3px solid #00ff00;
+  border-radius: 20px;
 }
 
 .image-container {
